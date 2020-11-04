@@ -24,6 +24,8 @@ collections:
     output: true
   faq:
     output: true
+  soeminhtike:
+    output: true
   aisyah:
     output: true
   khuz:
