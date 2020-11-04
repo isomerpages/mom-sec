@@ -24,6 +24,14 @@ collections:
     output: true
   faq:
     output: true
+  aisyah:
+    output: true
+  khuz:
+    output: true  
+  tim:
+    output: true
+  lisa:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
