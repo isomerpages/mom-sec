@@ -13,6 +13,9 @@ sections:
         button: Aisyah page
         url: /aisyah/test-aisyah
         key_highlights:
+         - title: Soe's page
+              description: Page A is important too
+              url: /soeminhtike/filename-soe
             - title: Highlight A
               description: Important highlight A is important
               url: https://google.com
