@@ -10,8 +10,8 @@ sections:
         title: Hero title
         subtitle: Hero subtitle
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: Aisyah page
+        url: /aisyah/test-aisyah
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -19,13 +19,13 @@ sections:
             - title: Highlight B
               description: Important highlight B is equally important
               url: https://gmail.com
-            - title: Page A
+            - title: Tim's page
               description: Page A is important too
-              url: /privacy/
+              url: /tim/test-tim
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        button: 
+        url: 
 ---
