@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: A notification bar you can use
 sections:
     - hero:
         title: Hero title
@@ -13,16 +13,16 @@ sections:
         button: Aisyah page
         url: /aisyah/test-aisyah
         key_highlights:
-         - title: Soe's page
+            - title: Soes page
               description: Page A is important too
               url: /soeminhtike/filename-soe
             - title: Highlight A
               description: Important highlight A is important
-              url: https://google.com
+              url: "https://google.com"
             - title: Highlight B
               description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Tim's page
+              url: "https://gmail.com"
+            - title: Tims page
               description: Page A is important too
               url: /tim/test-tim
     - infobar:
@@ -36,7 +36,8 @@ sections:
         subtitle: Core Values
         description: Integrity drives everything we do at the Ministry of ABC
         button: Learn More
-        url: /core-values/
+        url: /core-values
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
+        
 ---
