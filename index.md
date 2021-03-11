@@ -8,7 +8,7 @@ notification: A notification bar you can use
 sections:
     - hero:
         title: Hero title
-        subtitle: Hero subtitle
+        subtitle: Hero subtitles
         background: banner.jpg
         button: Aisyah page
         url: /aisyah/test-aisyah
