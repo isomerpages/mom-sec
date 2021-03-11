@@ -7,9 +7,9 @@ permalink: /
 notification: A notification bar you can use
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitles
-        background: banner.jpg
+        title: Providing employers with continued support to hire older Singaporean workers.
+        subtitle: Hero subtitle
+        background: /images/banner.jpg
         button: Aisyah page
         url: /aisyah/test-aisyah
         key_highlights:
