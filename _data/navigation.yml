@@ -13,4 +13,7 @@ links:
     collection: about-sec
   - title: FAQ
     collection: faq
+  - title: Test
+    collection: test  
+   
 
