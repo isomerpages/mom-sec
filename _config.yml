@@ -24,15 +24,7 @@ collections:
     output: true
   faq:
     output: true
-  soeminhtike:
-    output: true
-  aisyah:
-    output: true
-  khuz:
-    output: true  
-  tim:
-    output: true
-  lisa:
+  test:
     output: true
 
 
