@@ -1,4 +1,4 @@
 ---
 title: Test
-permalink: /test/
+permalink: /test/test/
 ---
