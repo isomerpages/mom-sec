@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Hero title
         subtitle: Hero subtitle
-        background: /images/photo.jpg
+        background: banner.jpg
         button: Aisyah page
         url: /aisyah/test-aisyah
         key_highlights:
