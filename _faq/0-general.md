@@ -10,19 +10,18 @@ permalink: /faq/general/
   The re-employment age was raised from 65 to 67 from 1 July 2017. The new re-employment age of 67 applies to those who turn 65 on or after 1 July 2017; in other words, those born on or after 1 July 1952.<br><br>
   The additional wage offset of 3% was extended from 1 July 2017 to 31 December 2019 to encourage employers to voluntarily re-employ employees who are not covered by the new re-employment age.<br><br>
   As announced at Budget 2019, the SEC and ASEC will be extended for one more year until end-2020.
-</details>
-<br>
+</details><br>
 <details>
   <summary><b>2. Will the SEC be extended beyond 2020?</b></summary>
   
   As announced at Budget 2019, the Government will be reviewing the relevance and structure of SEC to consider how best to support employers in hiring older workers going forward.<br><br>
   This will be done in tandem with the recommendations of the Tripartite Work Group on Older Workers. The Tripartite Work Group ha​s been tasked to review the retirement and re-employment age, and CPF contribution rates for older workers.
-</details>
+</details><br>
 <details>
   <summary><b>3. What is the estimated coverage of the extended SEC and ASEC?</b></summary>
   
   The extended SEC is estimated to cover about 404,000 workers, or about three in four older Singaporean workers.
-</details>
+</details><br>
 <details>
   <summary><b>4. Will SEC continue to apply to employers hiring Persons with Disabilities (PWDs)?</b></summary>
   
