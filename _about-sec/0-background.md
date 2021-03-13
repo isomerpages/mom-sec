@@ -10,7 +10,7 @@ As announced at Budget 2016, the SEC was extended for three years (viz. 1 Januar
 As announced at Budget 2019, the SEC will be extended for one more year until end-2020. <br>
 
 
-### Re-employing Older Workers not covered by the new re-employment age of 67  
+#### Re-employing Older Workers not covered by the new re-employment age of 67  
 
 To encourage employers to voluntarily re-employ Singaporeans above the re-employment age, it was announced at Budget 2015 that an additional wage offset of up to **3%** (Additional SEC or “ASEC”) would be introduced in 2015.
 
@@ -19,7 +19,7 @@ The re-employment age was raised from 65 to 67 from 1 July 2017. The new re-empl
 As announced at Budget 2019, the ASEC will be extended alongside the SEC for one more year, until end-2020. The ASEC will provide an additional wage offset of 3% to employers that hire older workers turning 67 and above.  <br>
 
 
-### Persons with Disabilities
+#### Persons with Disabilities
 
 To support employment of Persons with Disabilities (PWDs)__\*__, the SEC was extended to employers that hire PWDs of all ages in 2012. The SEC and ASEC for PWDs are set at 16% and 22% of the employee's monthly income respectively, up to $240 and $330 per month respectively.
 
