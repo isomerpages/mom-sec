@@ -3,9 +3,8 @@ title: Others
 permalink: /faq/others/
 ---
 <details>
-  <summary>1. Why is the SEC only for employees aged 55 and above? Can it be extended to younger workers?</summary>
+  <summary>**1. Why is the SEC only for employees aged 55 and above? Can it be extended to younger workers?**</summary>
   
-  ## Why is the SEC only for employees aged 55 and above? Can it be extended to younger workers?
   In general, employment rates of older workers have increased over the years. The current and extended SEC is tiered by employees' age to provide stronger support for employers hiring Singaporeans in the older age bands, where employment rates are lower.
 </details>
 <details>
