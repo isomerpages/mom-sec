@@ -5,16 +5,14 @@ permalink: /faq/general/
 <details>
   <summary><b>1. What are the Special Employment Credit (SEC) and Additional Special Employment Credit (ASEC)?</b></summary>
   
-  The SEC was first introduced as a 2011 Budget initiative to raise the employment rate of older low-wage Singaporeans. In 2016, it was extended for 3 years (viz. 2017 to 2019) to provide wage offsets to employers hiring Singaporean workers aged 55 and above, and earning up to $4,000.
-
-  To encourage employers to voluntarily re-employ Singaporeans above the re-employment age, it was announced at Budget 2015 that an additional wage offset up to 3 (ASEC) would be introduced in 2015.
-
-  The re-employment age was raised from 65 to 67 from 1 July 2017. The new re-employment age of 67 applies to those who turn 65 on or after 1 July 2017; in other words, those born on or after 1 July 1952.
-
-  The additional wage offset of 3% was extended from 1 July 2017 to 31 December 2019 to encourage employers to voluntarily re-employ employees who are not covered by the new re-employment age.
-
+  The SEC was first introduced as a 2011 Budget initiative to raise the employment rate of older low-wage Singaporeans. In 2016, it was extended for 3 years (viz. 2017 to 2019) to provide wage offsets to employers hiring Singaporean workers aged 55 and above, and earning up to $4,000. <br>
+  To encourage employers to voluntarily re-employ Singaporeans above the re-employment age, it was announced at Budget 2015 that an additional wage offset up to 3 (ASEC) would be introduced in 2015.<br>
+  The re-employment age was raised from 65 to 67 from 1 July 2017. The new re-employment age of 67 applies to those who turn 65 on or after 1 July 2017; in other words, those born on or after 1 July 1952.<br>
+  The additional wage offset of 3% was extended from 1 July 2017 to 31 December 2019 to encourage employers to voluntarily re-employ employees who are not covered by the new re-employment age.<br>
   As announced at Budget 2019, the SEC and ASEC will be extended for one more year until end-2020.
-</details><br>
+</details>
+
+
 <details>
   <summary><b>2. Will the SEC be extended beyond 2020?</b></summary>
   
