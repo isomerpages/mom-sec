@@ -20,7 +20,7 @@ permalink: /faq/others/
 <details>
   <summary><b>4. Where can I find more information to hire persons with disabilities?</b></summary>
   
-  There are many schemes to assist you in hiring persons with disabilities such as the Open Door Programme (ODP). Please contact SG Enable at 1800-8585-885 or email [contactus@sgenable.sg](mailto:contactus@sgenable.sg). You can also visit [SG Enable website](https://www.sgenable.sg/Pages/Home.aspx) for more information.
+  There are many schemes to assist you in hiring persons with disabilities such as the Open Door Programme (ODP). Please contact SG Enable at 1800-8585-885 or email <a href="mailto:contactus@sgenable.sg">contactus@sgenable.sg</a>. You can also visit <a href="https://www.sgenable.sg/Pages/Home.aspx">SG Enable website</a> for more information.
 </details><br>
 <details>
   <summary><b>5. I am eligible for wage offsets for my employees with disabilities under Jobs Growth Incentive (JGI). Will I continue to receive wage offsets under the SEC/ASEC?</b></summary>
