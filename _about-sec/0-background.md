@@ -19,9 +19,9 @@ As announced at Budget 2019, the ASEC will be extended alongside the SEC for one
 
 
 #### Persons with Disabilities
-To support employment of Persons with Disabilities (PWDs)__\*__, the SEC was extended to employers that hire PWDs of all ages in 2012. The SEC and ASEC for PWDs are set at 16% and 22% of the employee's monthly income respectively, up to $240 and $330 per month respectively.
+To support employment of Persons with Disabilities (PWDs)\*, the SEC was extended to employers that hire PWDs of all ages in 2012. The SEC and ASEC for PWDs are set at 16% and 22% of the employee's monthly income respectively, up to $240 and $330 per month respectively.
 
 The one-year extension of SEC and ASEC until end-2020 will also apply to employers that hire PWDs.  <br><br>
 
 
-__\*__  The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to [www.sgenable.sg](https://www.sgenable.sg/) or contact SG Enable at: 1800-8585 885.
+\* The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to [www.sgenable.sg](https://www.sgenable.sg/) or contact SG Enable at: 1800-8585 885.
