@@ -24,9 +24,10 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - email: sec@mom.gov.sg
+    - address:
+        - Special Employment Credit Team
+        - Novena Post Office
+        - P.O. Box 108
+        - Singapore 913016
 ---
