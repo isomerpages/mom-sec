@@ -3,12 +3,12 @@ title: Others
 permalink: /faq/others/
 ---
 <details>
-  <summary>**1. Why is the SEC only for employees aged 55 and above? Can it be extended to younger workers?**</summary>
+  <summary><b>1. Why is the SEC only for employees aged 55 and above? Can it be extended to younger workers?</b></summary>
   
   In general, employment rates of older workers have increased over the years. The current and extended SEC is tiered by employees' age to provide stronger support for employers hiring Singaporeans in the older age bands, where employment rates are lower.
 </details>
 <details>
-  <summary>2. I am self-employed and have made contributions to my Medisave account. Am I eligible for the SEC?</summary>
+  <summary><b>2. I am self-employed and have made contributions to my Medisave account. Am I eligible for the SEC?</b></summary>
   
   ## I am self-employed and have made contributions to my Medisave account. Am I eligible for the SEC?
   No. The SEC is only paid to employers who have made qualifying CPF contributions for their eligible employees. Hence, self-employed persons are not eligible for the SEC. However, if you employ eligible Singaporean employees, you may receive the SEC based on the mandatory CPF contributions that you have made for them.
