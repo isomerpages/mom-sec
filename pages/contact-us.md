@@ -25,7 +25,7 @@ contacts:
     content:
     - phone: +65 6123 4567
     - email: sec@mom.gov.sg
-    - address: 
+    - other: 
         - Special Employment Credit Team
         - Novena Post Office
         - P.O. Box 108
