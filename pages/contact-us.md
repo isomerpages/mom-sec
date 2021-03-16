@@ -4,13 +4,13 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
 contacts:
-    - title: Enquiries 
+ - title: General Enquiries & Feedback
     content:
-    - phone: 
+    - phone: +65 6123 4567
     - email: sec@mom.gov.sg
-    - other:
-    - other: 
-    - other: 
-    - other: 
+    - other: Special Employment Credit Team
+    - other: Novena Post Office
+    - other: P.O. Box 108
+    - other: Singapore 913016
 
 ---
