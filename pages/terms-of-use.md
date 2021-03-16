@@ -14,7 +14,7 @@ Thank you for visiting the Special Employment Credit Website (hereinafter the "W
 
 3. The Government reserves the right to change these Terms of Use from time to time at its sole discretion. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. You should therefore read this page carefully each time you visit this Website.
 
-####**Proprietary Rights**
+#### **Proprietary Rights**
 
 4. This Website is the official Special Employment Credit website. It is owned and operated by the Government. The Government reserves the right to update or modify this Website from time to time.
 
