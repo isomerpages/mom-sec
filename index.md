@@ -10,7 +10,7 @@ sections:
         title: Special Employment Credit
         subtitle: Providing employers with continued support to hire older Singaporean workers.
         background: /images/banner.jpg
-        button: Aisyah page
+        button: LEARN MORE
         url: /aisyah/test-aisyah
         key_highlights:
             - title: Highlight A
