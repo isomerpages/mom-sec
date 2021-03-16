@@ -13,18 +13,10 @@ sections:
         button: Aisyah page
         url: /aisyah/test-aisyah
         key_highlights:
-            - title: Soes page
+            - title: Highlight A
               description: Page A is important too
               url: /soeminhtike/filename-soe
-            - title: Highlight A
-              description: Important highlight A is important
-              url: "https://google.com"
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: "https://gmail.com"
-            - title: Tims page
-              description: Page A is important too
-              url: /tim/test-tim
+
     - infobar:
         title: Infobar title
         subtitle: Subtitle
