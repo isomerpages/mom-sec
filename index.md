@@ -11,7 +11,7 @@ sections:
         subtitle: Providing employers with continued support to hire older Singaporean workers.
         background: /images/banner.jpg
         button: LEARN MORE
-        url: /aisyah/test-aisyah
+        url: /about-sec/
         key_highlights:
             - title: Highlight A
               description: Page A is important too
