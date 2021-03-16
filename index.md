@@ -13,6 +13,4 @@ sections:
         button: LEARN MORE
         url: /about-sec/background
         
-   - infobar:
-        background: /images/site-logo.png
 ---
