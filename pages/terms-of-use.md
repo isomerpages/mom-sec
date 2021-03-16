@@ -24,7 +24,7 @@ Thank you for visiting the Special Employment Credit Website (hereinafter the "W
 
 #### **Privacy Policy**
 
-7. Click [/privacy/](here) to review this Website's Privacy Policy.
+7. Click [here](/privacy/) to review this Website's Privacy Policy.
 
 #### **Restrictions on Use of Information and Materials**
 
