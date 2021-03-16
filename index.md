@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Special Employment Credit
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
