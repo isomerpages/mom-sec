@@ -11,7 +11,7 @@ sections:
         subtitle: Providing employers with continued support to hire older Singaporean workers.
         background: /images/banner.jpg
         button: LEARN MORE
-        url: /about-sec/0-background
+        url: /about-sec/background
 
     - infobar:
         title: Infobar title
