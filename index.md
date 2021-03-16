@@ -12,5 +12,7 @@ sections:
         background: /images/banner.jpg
         button: LEARN MORE
         url: /about-sec/background
-       
+        
+   - infobar:
+        background: /images/
 ---
