@@ -7,7 +7,7 @@ permalink: /
 notification: A notification bar you can use
 sections:
     - hero:
-        title: <p align="left"> Special Employment Credit </p>
+        <p align="left"> title </p>: Special Employment Credit 
         subtitle: Providing employers with continued support to hire older Singaporean workers.
         background: /images/banner.jpg
         button: LEARN MORE
