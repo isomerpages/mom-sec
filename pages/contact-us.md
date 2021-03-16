@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
 contacts:
-    - title: General Enquiries & Feedback
+    - title: Enquiries 
     content:
     - phone: +65 6123 4567
     - email: sec@mom.gov.sg
