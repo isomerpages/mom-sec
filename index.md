@@ -14,5 +14,5 @@ sections:
         url: /about-sec/background
         
    - infobar:
-        background: /images/
+        background: /images/site-logo.png
 ---
