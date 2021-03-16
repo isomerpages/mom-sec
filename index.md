@@ -7,7 +7,7 @@ permalink: /
 notification: A notification bar you can use
 sections:
     - hero:
-title: Special Employment Credit
+        title: Special Employment Credit
         subtitle: Providing employers with continued support to hire older Singaporean workers.
         background: /images/banner.jpg
         button: LEARN MORE
