@@ -7,8 +7,8 @@ permalink: /
 notification: A notification bar you can use
 sections:
     - hero:
-        title: Providing employers with continued support to hire older Singaporean workers.
-        subtitle: Hero subtitle
+        title: Special Employment Credit
+        subtitle: Providing employers with continued support to hire older Singaporean workers.
         background: /images/banner.jpg
         button: Aisyah page
         url: /aisyah/test-aisyah
