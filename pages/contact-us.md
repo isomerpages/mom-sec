@@ -3,7 +3,8 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 contacts:
-  - title: /images/site-logo.png
+  - title: Enquiries on the Special Employment Credit
+    image: /images/site-logo.png
     content:
     - email: sec@mom.gov.sg
 ---
