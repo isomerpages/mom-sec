@@ -22,6 +22,7 @@ colors:
 collections:
   about-sec:
     output: true
+    
 collections:    
         faq:
     output: true
