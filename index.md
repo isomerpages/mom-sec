@@ -12,20 +12,5 @@ sections:
         background: /images/banner.jpg
         button: LEARN MORE
         url: /about-sec/background
-
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: 
-        url:  
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
-        
+       
 ---
