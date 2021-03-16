@@ -20,9 +20,9 @@ colors:
 
 
 collections:
-  about-sec:
+   about-sec:
     output: true
-        faq:
+   faq:
     output: true
 
 
