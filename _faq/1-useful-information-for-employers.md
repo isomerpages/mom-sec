@@ -58,14 +58,14 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 .tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 876px">
+<table class="tg" style="undefined;table-layout: fixed; width: 860px">
 <colgroup>
-<col style="width: 121px">
-<col style="width: 151px">
-<col style="width: 151px">
-<col style="width: 151px">
-<col style="width: 151px">
-<col style="width: 151px">
+<col style="width: 110px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -73,10 +73,10 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
     <th class="tg-08iw" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
   </tr>
   <tr>
-    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged between 55 and 59 (i.e. &gt;=55yrs 0mths and &lt;=59yrs 11mths)</span></td>
-    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Agedbetween 60 and 64 (i.e. &gt;=60yrs 0mths and &lt;=64yrs 11mths)</span></td>
-    <td class="tg-wo1z" colspan="2"><span style="font-weight:700">Aged between 65 and 67 (i.e. &gt;=65yrs 0mths and &lt;67yrs 0mths)</span></td>
-    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged 67 and above (i.e. &gt;=67yrs 0mths)</span></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged between 55 and 59</span><br><span style="font-weight:700">(i.e. &gt;=55yrs 0mths and &lt;=59yrs 11mths)</span></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged between 60 and 64</span><br><span style="font-weight:700">(i.e. &gt;=60yrs 0mths and &lt;=64yrs 11mths)</span></td>
+    <td class="tg-wo1z" colspan="2"><span style="font-weight:700">Aged between 65 and 67</span><br><span style="font-weight:700">(i.e. &gt;=65yrs 0mths and &lt;67yrs 0mths)</span></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged 67 and above</span><br><span style="font-weight:700">(i.e. &gt;=67yrs 0mths)</span></td>
   </tr>
   <tr>
     <td class="tg-wo1z"><span style="font-weight:700;color:#FFF">Born on or after 1 July 1952</span></td>
@@ -101,7 +101,7 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
     <td class="tg-gs7u"><span style="font-weight:300">1,320 –</span> <span style="font-weight:300">(0.33*wage)</span></td>
   </tr>
 </tbody>
-</table><br><br>
+</table><br>
   The amount of SEC/ASEC payouts employers will receive per month for 1 January 2019 to 31 December 2020 is in the table below.<br>
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
