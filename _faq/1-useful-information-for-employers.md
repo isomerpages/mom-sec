@@ -110,8 +110,8 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-rw9j{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-08iw{background-color:#F88000;color:#ffffff;text-align:center;vertical-align:middle}
 .tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-5pvq{background-color:#F88000;color:#666;text-align:center;vertical-align:middle}
 .tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 840px">
@@ -126,7 +126,7 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 <thead>
   <tr>
     <th class="tg-wo1z" rowspan="3"><span style="font-weight:700;color:#FFF"> Income of employee in a given month ($) </span></th>
-    <th class="tg-5pvq" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300;color:#FFF"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
+    <th class="tg-08iw" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
   </tr>
   <tr>
     <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged between 55 and 59</span><br><span style="font-weight:700">[Up to 3% SEC]</span></td>
@@ -225,19 +225,87 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
   The SEC payout reduces linearly for monthly wages between $3,000 to $4,000.
 </details><br>
 <details>
-  <summary><b>2. Will the SEC be extended beyond 2020?</b></summary>
+  <summary><b>2. How much SEC and ASEC can employers of persons with disabilities (PWDs) receive?</b></summary>
   
-  As announced at Budget 2019, the Government will be reviewing the relevance and structure of SEC to consider how best to support employers in hiring older workers going forward.<br><br>
-  This will be done in tandem with the recommendations of the Tripartite Work Group on Older Workers. The Tripartite Work Group ha​s been tasked to review the retirement and re-employment age, and CPF contribution rates for older workers.
+  Answer here.<br><br>
+  Maybe here.
 </details><br>
 <details>
-  <summary><b>3. What is the estimated coverage of the extended SEC and ASEC?</b></summary>
+  <summary><b>3. What is considered as wages in assessing SEC eligibility? Will overtime pay and bonuses be included?</b></summary>
   
-  The extended SEC is estimated to cover about 404,000 workers, or about three in four older Singaporean workers.
+  Answer here.<br><br>
+  Maybe here.
 </details><br>
 <details>
-  <summary><b>4. Will SEC continue to apply to employers hiring Persons with Disabilities (PWDs)?</b></summary>
+  <summary><b>4. How is the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
   
-  The SEC for PWDs will also be extended for one more year, until end-2020.<br><br>
-  The extended SEC will continue to provide a wage offsets of up to 16% of the PWD's monthly wage, regardless of age, for employers hiring PWDs. The monthly SEC will be capped at $240. The wage offset for the extended ASEC will continue to be set at up to 22%, capped at $330.
-</details>
+  The SEC is provided to employers that hire employees aged 55 and above, and the wage offsets are tiered by age. The employee will be considered to be 55 (or the next age group) in the month of his birthday.
+</details><br>
+<details>
+  <summary><b>5. As an employer, what do I need to do to receive my SEC?</b></summary>
+  
+  MOM will automatically assess your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You will receive a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.
+</details><br>
+<details>
+  <summary><b>6. When is the cut-off date for employers to make their CPF contributions to qualify for SEC?</b></summary>
+  
+  Employers are given 14 days to make payment of CPF contributions after the end of the month for which CPF contributions are due, to qualify for SEC. If the last day of the grace period falls on a Saturday, Sunday or public holiday, CPF contributions must be paid by the next working day.
+</details><br>
+<details>
+  <summary><b>7. How will the SEC payment be made?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>8. When will I receive payment for the SEC?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>10. I received the SEC cheque but do not have a corporate bank account. What should I do?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>11. My business ceased operations after assessment/halfway through the assessment period. I have made CPF contributions for my Singaporean employees. Will I still receive SEC?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>12. Can I receive SEC without making CPF contributions for my employees?</b></summary>
+  
+  The SEC is intended to provide employers with continued support in hiring older Singaporeans. Employers must make the mandatory CPF contributions for their employees in order to qualify for SEC payouts.
+</details><br>
+<details>
+  <summary><b>13. As an employer, do I need to pay tax on the SEC payments?</b></summary>
+  
+  Yes, SEC payments are taxable as they are considered revenue receipts.
+</details><br>
+<details>
+  <summary><b>14. I have received an SEC cheque. How do I change my mode of payment for SEC to GIRO for future SEC payouts, if I am eligible?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>15. How do I authorise a new third party payee to receive SEC for my entity?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
+<details>
+  <summary><b>16. How will I know if my new Singaporean employee with disabilities will help me qualify for SEC/ASEC for employers of person with disabilities?</b></summary>
+  
+  Answer here.<br><br>
+  Maybe here.
+</details><br>
