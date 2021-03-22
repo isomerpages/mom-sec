@@ -7,7 +7,7 @@ permalink: /faq/useful-information-for-employers/
   
   From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-o​ffsets, tiered by age (see table below).
   
-<style type="text/css">
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -44,16 +44,14 @@ permalink: /faq/useful-information-for-employers/
 </tbody>
 </table>
   
-  
   <br>
-  In 1 January 2015, an additional wage offset of up to 3% of an employee's monthly wages was introduced to encourage employers to voluntarily re-employ Singaporeans aged 65 and above. At Budget 2017, it was announced that this add​itional wage support would be extended from 1 July 2017 to 31 December 2019 to encourage the voluntary re-employment of older Singaporeans who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017.
+  In 1 January 2015, an additional wage offset of up to 3% of an employee's monthly wages was introduced to encourage employers to voluntarily re-employ Singaporeans aged 65 and above. At Budget 2017, it was announced that this additional wage support would be extended from 1 July 2017 to 31 December 2019 to encourage the voluntary re-employment of older Singaporeans who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017.<br><br>
 
-Taken together, this means that employers who hire workers not covered by the re-employment age of 67 will receive an SEC of up to 11% of an employee’s monthly wages.
+Taken together, this means that employers who hire workers not covered by the re-employment age of 67 will receive an SEC of up to 11% of an employee’s monthly wages.<br><br>
 
 The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, and the extended period of 1 January to 31 December 2020 is as follows:
-  <br>
   
-<style type="text/css">
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 2px;word-break:normal;}
