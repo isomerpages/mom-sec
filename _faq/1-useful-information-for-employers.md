@@ -8,10 +8,10 @@ permalink: /faq/useful-information-for-employers/
   From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-o​ffsets, tiered by age (see table below).
   
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaaaaa;border-spacing:0;}
+.tg  {border: 1px solid #AAAAAA}
 .tg td{background-color:#fff;border-color:#aaaaaa;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaaaaa;border-style:solid;border-width:1px;color:#fff;
+.tg th{background-color:#f88000;border-color:#aaaaaa;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nsl0{background-color:#ED7800;color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
