@@ -8,38 +8,34 @@ permalink: /faq/useful-information-for-employers/
   From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
   
   <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-style:solid;border-width:1px;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-65bp{background-color:#ED7800;border-color:inherit;color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-26kj{background-color:#FFF;border-color:inherit;color:#666;text-align:left;vertical-align:top}
-.tg .tg-mqbi{background-color:rgba(255, 255, 255, 0.85);border-color:inherit;color:#666;text-align:left;vertical-align:top}
+.tg  {border-collapse:collapse;border-color:#aaa;border-style:solid;border-width:1px;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kulm{background-color:#f88000;color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+.tg .tg-h5cl{background-color:rgba(255, 255, 255, 0.85);color:#666;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 243px">
-<colgroup>
-<col style="width: 86px">
-<col style="width: 157px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-65bp"><span style="font-weight:normal;color:#FFF;background-color:#ED7800">Age (years)</span></th>
-    <th class="tg-65bp"><span style="font-weight:normal;color:#FFF;background-color:#ED7800">Wage-offset</span></th>
+    <th class="tg-kulm"><span style="font-weight:normal;color:#FFF">Age (years)</span></th>
+    <th class="tg-kulm"><span style="font-weight:normal;color:#FFF">Wage-offset</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-26kj"><span style="font-weight:300">55 - 59</span></td>
-    <td class="tg-26kj"><span style="font-weight:300">Up to 3% of monthly wage</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">55 - 59</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">Up to 3% of monthly wage</span></td>
   </tr>
   <tr>
-    <td class="tg-mqbi"><span style="font-weight:300">60 - 64</span></td>
-    <td class="tg-mqbi"><span style="font-weight:300">Up to 5% of monthly wage</span></td>
+    <td class="tg-h5cl"><span style="font-weight:300">60 - 64</span></td>
+    <td class="tg-h5cl"><span style="font-weight:300">Up to 5% of monthly wage</span></td>
   </tr>
   <tr>
-    <td class="tg-26kj"><span style="font-weight:300">65 &amp; above</span></td>
-    <td class="tg-26kj"><span style="font-weight:300">Up to 8% of monthly wage</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">65 &amp; above</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">Up to 8% of monthly wage</span></td>
   </tr>
 </tbody>
 </table>
