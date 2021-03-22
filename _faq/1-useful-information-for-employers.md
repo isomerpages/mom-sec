@@ -58,14 +58,14 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 .tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 820px">
+<table class="tg" style="undefined;table-layout: fixed; width: 830px">
 <colgroup>
-<col style="width: 110px">
+<col style="width: 105px">
 <col style="width: 155px">
 <col style="width: 155px">
-<col style="width: 130px">
 <col style="width: 135px">
-<col style="width: 135px">
+<col style="width: 140px">
+<col style="width: 140px">
 </colgroup>
 <thead>
   <tr>
