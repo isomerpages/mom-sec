@@ -17,46 +17,46 @@ permalink: /faq/useful-information-for-employers/
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:7px 2px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-woin{background-color:#f88000;border-color:inherit;color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-4828{background-color:#f88000;border-color:inherit;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+  font-weight:normal;overflow:hidden;padding:7px 2px;word-break:normal;}
+.tg .tg-5cz3{background-color:#f88000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-j40y{background-color:#f88000;border-color:inherit;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-4828" rowspan="3"><span style="font-weight:700">ncome of employee in a given month ($) </span></th>
-    <th class="tg-woin" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
+    <th class="tg-j40y" rowspan="3"><span style="font-weight:700">I</span>ncome of employee in a given month ($) </th>
+    <th class="tg-5cz3" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
   </tr>
   <tr>
-    <td class="tg-woin" rowspan="2"><span style="font-weight:700">Aged between 55 and 59 (i.e. &gt;=55yrs 0mths and &lt;=59yrs 11mths)</span></td>
-    <td class="tg-woin" rowspan="2"><span style="font-weight:700">Agedbetween 60 and 64 (i.e. &gt;=60yrs 0mths and &lt;=64yrs 11mths)</span></td>
-    <td class="tg-woin" colspan="2"><span style="font-weight:700">Aged between 65 and 67 (i.e. &gt;=65yrs 0mths and &lt;67yrs 0mths)</span></td>
-    <td class="tg-woin" rowspan="2"><span style="font-weight:700">Aged 67 and above (i.e. &gt;=67yrs 0mths)</span></td>
+    <td class="tg-5cz3" rowspan="2"><span style="font-weight:700">Aged between 55 and 59 (i.e. &gt;=55yrs 0mths and &lt;=59yrs 11mths)</span></td>
+    <td class="tg-5cz3" rowspan="2"><span style="font-weight:700">Agedbetween 60 and 64 (i.e. &gt;=60yrs 0mths and &lt;=64yrs 11mths)</span></td>
+    <td class="tg-5cz3" colspan="2"><span style="font-weight:700">Aged between 65 and 67 (i.e. &gt;=65yrs 0mths and &lt;67yrs 0mths)</span></td>
+    <td class="tg-5cz3" rowspan="2"><span style="font-weight:700">Aged 67 and above (i.e. &gt;=67yrs 0mths)</span></td>
   </tr>
   <tr>
-    <td class="tg-woin"><span style="font-weight:700">Born on or after 1 July 1952</span></td>
-    <td class="tg-woin"><span style="font-weight:700">Born before 1 July 1952</span></td>
+    <td class="tg-5cz3"><span style="font-weight:700">Born on or after 1 July 1952</span></td>
+    <td class="tg-5cz3"><span style="font-weight:700">Born before 1 July 1952</span></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:700">Up to 3,000</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300"> 3% of wage</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">5% of wage</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">8% of wage</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">11% of wage</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">11% of wage</span></td>
+    <td class="tg-9wq8"><span style="font-weight:700">Up to 3,000</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300"> 3% of wage</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">5% of wage</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">8% of wage</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">11% of wage</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">11% of wage</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:700">&gt; 3,000 to 4,000</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">360 – (0.09*wage)</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">600</span> <span style="font-weight:300">– (0.15*wage)</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">960 – (0.24*wage)</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">1,320 – (0.33*wage)</span></td>
-    <td class="tg-c3ow"><span style="font-weight:300">1,320 –</span> <span style="font-weight:300">(0.33*wage)</span></td>
+    <td class="tg-9wq8"><span style="font-weight:700">&gt; 3,000 to 4,000</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">360 – (0.09*wage)</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">600</span> <span style="font-weight:300">– (0.15*wage)</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">960 – (0.24*wage)</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">1,320 – (0.33*wage)</span></td>
+    <td class="tg-9wq8"><span style="font-weight:300">1,320 –</span> <span style="font-weight:300">(0.33*wage)</span></td>
   </tr>
 </tbody>
 </table>
