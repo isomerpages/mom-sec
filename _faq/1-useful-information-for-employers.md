@@ -14,12 +14,12 @@ permalink: /faq/useful-information-for-employers/
   
   <br><br>
   
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:7px 2px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:7px 2px;word-break:normal;}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:7px 2px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:7px 2px;word-break:normal;}
 .tg .tg-5cz3{background-color:#f88000;border-color:inherit;color:#ffffff;text-align:center;vertical-align:middle}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
 .tg .tg-j40y{background-color:#f88000;border-color:inherit;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
