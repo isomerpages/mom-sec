@@ -102,109 +102,109 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ws5x{background-color:#F88000;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-jdye{background-color:#F88000;color:#ffffff;text-align:left;vertical-align:middle}
-.tg .tg-imtz{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-zqva{background-color:#FFF;color:#666;text-align:center;vertical-align:top}
+.tg .tg-l9b0{background-color:#FFF;color:#aaaaaa;text-align:center;vertical-align:middle}
+.tg .tg-rw9j{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-08iw{background-color:#F88000;color:#ffffff;text-align:center;vertical-align:middle}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ws5x" rowspan="3"><span style="font-weight:700;color:#FFF"> Income of employee in a given month ($) </span></th>
-    <th class="tg-jdye" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
+    <th class="tg-wo1z" rowspan="3"><span style="font-weight:700;color:#FFF"> Income of employee in a given month ($) </span></th>
+    <th class="tg-08iw" colspan="5"><span style="font-weight:400"> </span><span style="font-weight:300"> </span><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporeans</span><span style="font-weight:400"> </span></th>
   </tr>
   <tr>
-    <td class="tg-ws5x" rowspan="2"><span style="font-weight:700">Aged between 55 and 59</span><br><span style="font-weight:700">[Up to 3% SEC]</span></td>
-    <td class="tg-ws5x" rowspan="2"><span style="font-weight:700">Aged between 60 and 64</span><br><span style="font-weight:700">[Up to 5% SEC]</span></td>
-    <td class="tg-ws5x" colspan="2"><span style="font-weight:700">Aged between 65 and 67 </span><br></td>
-    <td class="tg-ws5x" rowspan="2"><span style="font-weight:700">aged 67 and above</span><br><span style="font-weight:700">[Up to 11% SEC]</span></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged between 55 and 59</span><br><span style="font-weight:700">[Up to 3% SEC]</span></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged between 60 and 64</span><br><span style="font-weight:700">[Up to 5% SEC]</span></td>
+    <td class="tg-wo1z" colspan="2"><span style="font-weight:700">Aged between 65 and 67 </span><br></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged 67 and above</span><br><span style="font-weight:700">[Up to 11% SEC]</span></td>
   </tr>
   <tr>
-    <td class="tg-ws5x"><span style="font-weight:700">Born on or after 1 July 1952</span><br><span style="font-weight:700">[Up to 8% SEC]</span></td>
-    <td class="tg-ws5x"><span style="font-weight:700;color:#FFF">Born before 1 July 1952</span><br><span style="font-weight:700;color:#FFF">[Up to 11% SEC]</span></td>
+    <td class="tg-wo1z"><span style="font-weight:700">Born on or after 1 July 1952</span><br><span style="font-weight:700">[Up to 8% SEC]</span></td>
+    <td class="tg-wo1z"><span style="font-weight:700;color:#FFF">Born before 1 July 1952</span><br><span style="font-weight:700;color:#FFF">[Up to 11% SEC]</span></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">500</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">15.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">25.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">40.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">55.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">55.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">15.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">25.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">40.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">55.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">55.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">1,000</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">30.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">50.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">80.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">110.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">110.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">1,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">30.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">50.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">80.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">110.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">110.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">1,500</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">45.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">75.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">120.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">165.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">165.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">1,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">45.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">75.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">120.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">165.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">165.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">2,000</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">60.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">100.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">160.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">220.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">220.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">2,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">60.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">100.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">160.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">220.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">220.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">2,500</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">75.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">125.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">200.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">275.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">275.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">2,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">75.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">125.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">200.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">275.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">275.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">3,000</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">90.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">150.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">240.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">330.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">330.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">3,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">90.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">150.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">3,250</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">67.50</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">112.50</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">180.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">247.50</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">247.50</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">3,250</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">67.50</span></td>
+    <td class="tg-l9b0"><span style="font-weight:300">112.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">180.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">247.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">247.50</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">3,500</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">45.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">75.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">120.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">165.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">165.00</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">3,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">45.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">75.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">120.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">165.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">165.00</span></td>
   </tr>
   <tr>
-    <td class="tg-imtz"><span style="font-weight:700">3,750</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">22.50</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">37.50</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">60.00</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">82.50</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">82.50</span></td>
+    <td class="tg-rw9j"><span style="font-weight:700">3,750</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">22.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">37.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">60.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">82.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">82.50</span></td>
   </tr>
   <tr>
     <td class="tg-gs7u"><span style="font-weight:700">≥4,000</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">0</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">0</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">0</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">0</span></td>
-    <td class="tg-zqva"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
   </tr>
 </tbody>
 </table>
