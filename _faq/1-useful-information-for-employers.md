@@ -9,7 +9,7 @@ permalink: /faq/useful-information-for-employers/
   
 <style type="text/css">
 .tg  {border: 1px solid #AAAAAA}
-.tg td{background-color:#fff;border-color:#aaaaaa;border-style:solid;border-width:1px;color:#333;
+.tg td{border: 1px solid #AAAAAA;background-color:#fff;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f88000;border-color:#aaaaaa;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
