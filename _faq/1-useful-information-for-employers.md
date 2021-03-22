@@ -5,10 +5,10 @@ permalink: /faq/useful-information-for-employers/
 <details>
   <summary><b>1. How much SEC and ASEC can employers receive?</b></summary>
   
-  From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-o​ffsets, tiered by age (see table below).
+  From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
   
   <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0;border-style:solid;border-width:1px;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,7 +49,7 @@ permalink: /faq/useful-information-for-employers/
 
 Taken together, this means that employers who hire workers not covered by the re-employment age of 67 will receive an SEC of up to 11% of an employee’s monthly wages.<br><br>
 
-The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, and the extended period of 1 January to 31 December 2020 is as follows:
+The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, and the extended period of 1 January to 31 December 2020 is as follows:<br>
   
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
