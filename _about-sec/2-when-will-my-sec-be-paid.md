@@ -1,5 +1,5 @@
 ---
-title: When Will My Sec Be Paid
+title: When Will My SEC Be Paid
 permalink: /about-sec/when-will-my-sec-be-paid/
 ---
 # When will my SEC be paid
