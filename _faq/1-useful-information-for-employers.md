@@ -513,7 +513,7 @@ Please refer to the table below for the payment months.<br>
   <summary><b>15. How do I authorise a new third party payee to receive SEC for my entity?</b></summary>
   
   To authorise a new third party payee, employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online. Please ensure that the form reaches us by the dates below.<br>
-  TABLE<br>
+  
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
@@ -540,7 +540,7 @@ Please refer to the table below for the payment months.<br>
     <td class="tg-gs7u">10th October of the same year </td>
   </tr>
 </tbody>
-</table>
+</table><br>
   Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
