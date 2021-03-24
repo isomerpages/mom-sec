@@ -307,11 +307,11 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 840px">
 <colgroup>
-<col style="width: 155px">
+<col style="width: 150px">
 <col style="width: 170px">
-<col style="width: 190px">
+<col style="width: 200px">
 <col style="width: 170px">
-<col style="width: 155px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -512,12 +512,39 @@ Please refer to the table below for the payment months.<br>
 <details>
   <summary><b>15. How do I authorise a new third party payee to receive SEC for my entity?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  To authorise a new third party payee, employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online. Please ensure that the form reaches us by the dates below.<br>
+  TABLE<br>
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
+    <td class="tg-gs7u">10th April of the same year </td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
+    <td class="tg-gs7u">10th October of the same year </td>
+  </tr>
+</tbody>
+</table>
+  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>16. How will I know if my new Singaporean employee with disabilities will help me qualify for SEC/ASEC for employers of person with disabilities?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  CPFB will automatically assess your eligibility for the SEC/ASEC. The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.
 </details><br>
