@@ -290,7 +290,7 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
     <td class="tg-gs7u"><span style="font-weight:400">1,320 - (0.33*wage)</span></td>
   </tr>
 </tbody>
-</table><br>
+</table>
   *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
   
   The amount of monthly SEC employers will receive from 1 January 2019 to 31 December 2020 is in the table below.<br>
@@ -307,11 +307,11 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 840px">
 <colgroup>
-<col style="width: 160px">
+<col style="width: 155px">
 <col style="width: 170px">
-<col style="width: 180px">
+<col style="width: 190px">
 <col style="width: 170px">
-<col style="width: 160px">
+<col style="width: 155px">
 </colgroup>
 <thead>
   <tr>
@@ -400,7 +400,7 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
     <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
   </tr>
 </tbody>
-</table><br>
+</table>
   *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
   
   The SEC payout reduces linearly for monthly wages between $3,000 to $4,000.
@@ -408,8 +408,7 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <details>
   <summary><b>3. What is considered as wages in assessing SEC eligibility? Will overtime pay and bonuses be included?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  SEC eligibility is based on the total wages paid to the employee, as computed from the CPF contributions that are made. The total wage of the employee is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month. This may include but is not limited to food allowances, overtime, annual bonus, leave pay etc. Please refer to <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-contribution-for-employees">CPF Board website</a> for a more detailed description of total wages.
 </details><br>
 <details>
   <summary><b>4. How is the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
@@ -429,14 +428,52 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <details>
   <summary><b>7. How will the SEC payment be made?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  Employers will receive their SEC in the bank accounts that are registered with CPF Board for the GIRO payment of CPF contribution. Employers without a GIRO arrangement with CPF Board may submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to start receiving SEC automatically in the entity’s bank account. Employers without GIRO arrangements will receive their SEC by cheque.<br><br>
+
+Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>8. When will I receive payment for the SEC?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  SEC will be paid in September of the same year for work done from January to June, and March of the following year for work done from July to December.<br><br>
+
+Please refer to the table below for the payment months.<br>
+
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bfo8{background-color:#FFF;color:#666;text-align:left;vertical-align:middle}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 840px">
+<colgroup>
+<col style="width: 155px">
+<col style="width: 495px">
+<col style="width: 190px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Employees on the Payroll</span></th>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Deadline for employers to make CPF contributions to receive SEC</span></th>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Payment Month for SEC</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bfo8"><span style="font-weight:300">January to June</span></td>
+    <td class="tg-bfo8"><span style="font-weight:300">14th of the subsequent month</span><br><span style="font-weight:300">E.g. 14 February for employees on the January payroll</span></td>
+    <td class="tg-bfo8"><span style="font-weight:300">September of the same year</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bfo8"><span style="font-weight:300"> July to December</span></td>
+    <td class="tg-bfo8"><span style="font-weight:300">14th of the subsequent month</span><br><span style="font-weight:300">E.g. 14 January of the following year for employees on the December payroll</span></td>
+    <td class="tg-bfo8"><span style="font-weight:300">March of the following year</span></td>
+  </tr>
+</tbody>
+</table>
 </details><br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
