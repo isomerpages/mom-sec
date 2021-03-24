@@ -227,8 +227,185 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 <details>
   <summary><b>2. How much SEC and ASEC can employers of persons with disabilities (PWDs) receive?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  Employers of PWDs will continue to receive a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
+In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, will receive a further SEC enhancement of up to 6%. This increases the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
+
+The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and extended period of 1 January to 31 December 2020 is as follows:<br>
+
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rw9j{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-fctj{background-color:#f88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-5pvq{background-color:#F88000;color:#666;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 840px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 170px">
+<col style="width: 170px">
+<col style="width: 170px">
+<col style="width: 170px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-wo1z" rowspan="3"><span style="font-weight:700;color:#FFF">Income of employee in a given month ($) </span></th>
+    <th class="tg-fctj" colspan="4"><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporean PWDs*</span></th>
+  </tr>
+  <tr>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged 13 and above but below 65</span><br><span style="font-weight:700">(i.e. &gt;=13yrs 0mths and &lt;=64yrs 11mths)</span></td>
+    <td class="tg-wo1z" colspan="2"><span style="font-weight:700;color:#FFF">Aged between 65 and 67</span><br><span style="font-weight:700;color:#FFF">(i.e. &gt;=65yrs 0mths and &lt;67yrs 0mths)</span></td>
+    <td class="tg-5pvq" rowspan="2"><span style="font-weight:700;color:#FFF">Aged 67 and above</span><br><span style="font-weight:700;color:#FFF">(i.e. &gt;=67yrs 0mths)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wo1z"><span style="font-weight:700">Born on or after 1 July 1952</span></td>
+    <td class="tg-wo1z"><span style="font-weight:700;color:#FFF">Born before 1 July 1952</span></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">Up to 1,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">16% of wage</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">16% of wage</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">22% of wage</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">22% of wage</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:700">&gt; 1,500 to 3,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">&gt; 3,000 to 4,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">960 - (0.24*wage)</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">960 - (0.24*wage)</span></td>
+    <td class="tg-gs7u"><span style="font-weight:400">1,320 - (0.33*wage)</span></td>
+    <td class="tg-gs7u"><span style="font-weight:400">1,320 - (0.33*wage)</span></td>
+  </tr>
+</tbody>
+</table><br>
+  
+  *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
+  
+  The amount of monthly SEC employers will receive from 1 January 2019 to 31 December 2020 is in the table below.<br>
+  
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rw9j{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 840px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 170px">
+<col style="width: 175px">
+<col style="width: 170px">
+<col style="width: 165px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-wo1z" rowspan="3"><span style="font-weight:700;color:#FFF">Income of employee in a given month ($) </span></th>
+    <th class="tg-wo1z" colspan="4"><span style="font-weight:700">SEC/ASEC for the month ($) for employers who hire Singaporean PWDs*</span></th>
+  </tr>
+  <tr>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700">Aged 13 and above but below 65</span><br><span style="font-weight:700">[Up to 16% SEC]</span></td>
+    <td class="tg-wo1z" colspan="2"><span style="font-weight:700;color:#FFF">Aged between 65 and 67</span></td>
+    <td class="tg-wo1z" rowspan="2"><span style="font-weight:700;color:#FFF">Aged 67 and above</span><br><span style="font-weight:700;color:#FFF">[Up to 22% SEC]</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wo1z"><span style="font-weight:700">Born on or after 1 July 1952</span><br><span style="font-weight:700">[Up to 16% SEC]</span></td>
+    <td class="tg-wo1z"><span style="font-weight:700">Born before 1 July 1952</span><br><span style="font-weight:700">[Up to 22% SEC]</span></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">80.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">80.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">110.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">110.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:700">1,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">160.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">160.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">220.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">220.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">1,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">2,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">2,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">3,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">240.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">330.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">3,250</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">180.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">180.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">247.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">247.50</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">3,500</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">120.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">120.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">165.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">165.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rw9j"><span style="font-weight:700">3,750</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">60.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">60.00</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">82.50</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">82.50</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:700">≥4,000</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+    <td class="tg-gs7u"><span style="font-weight:300">0</span></td>
+  </tr>
+</tbody>
+</table><br>
+  
+  *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
+  
+  The SEC payout reduces linearly for monthly wages between $3,000 to $4,000.
 </details><br>
 <details>
   <summary><b>3. What is considered as wages in assessing SEC eligibility? Will overtime pay and bonuses be included?</b></summary>
