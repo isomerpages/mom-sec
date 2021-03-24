@@ -478,20 +478,80 @@ Please refer to the table below for the payment months.<br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  Employers are encouraged to bank in the cheque(s) within 6 months from the cheque issuance date. If the cheque has expired, employers may submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to receive the payment through GIRO to the entity's bank account.<br><br>
+
+If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by the dates below.<br>
+  
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
+    <td class="tg-gs7u">10th April of the following year </td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
+    <td class="tg-gs7u">10th October of the following year </td>
+  </tr>
+</tbody>
+</table><br>
+  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.<br><br>
+  However, if you have reason(s) for not being able to receive SEC payment via GIRO, please inform us by the same dates above and we will re-issue the cheque(s) accordingly.
 </details><br>
 <details>
   <summary><b>10. I received the SEC cheque but do not have a corporate bank account. What should I do?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  You are encouraged to open a corporate bank account and register it with us so that you can receive future SEC payments via GIRO.<br><br>
+
+If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by the dates below.<br>
+  
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
+    <td class="tg-gs7u">10th April of the following year </td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
+    <td class="tg-gs7u">10th October of the following year </td>
+  </tr>
+</tbody>
+</table><br>
+  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>11. My business ceased operations after assessment/halfway through the assessment period. I have made CPF contributions for my Singaporean employees. Will I still receive SEC?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  You will be assessed for the SEC and notified of your payment for the period that CPF contributions for eligible employees were made. If your business bank account has been terminated following the cease of business operations, please write in to the SEC team (<a href="mailto:sec@mom.gov.sg">sec@mom.gov.sg</a>). We will review your case and advise you on the actions you need to take in order to receive the SEC payment.
 </details><br>
 <details>
   <summary><b>12. Can I receive SEC without making CPF contributions for my employees?</b></summary>
@@ -506,8 +566,36 @@ Please refer to the table below for the payment months.<br>
 <details>
   <summary><b>14. I have received an SEC cheque. How do I change my mode of payment for SEC to GIRO for future SEC payouts, if I am eligible?</b></summary>
   
-  Answer here.<br><br>
-  Maybe here.
+  Employers have to submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to receive SEC via GIRO. Please ensure that the instruction reaches us by the dates below.<br>
+
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
+    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
+    <td class="tg-gs7u">10th April of the same year </td>
+  </tr>
+  <tr>
+    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
+    <td class="tg-gs7u">10th October of the same year </td>
+  </tr>
+</tbody>
+</table><br>
+Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>15. How do I authorise a new third party payee to receive SEC for my entity?</b></summary>
