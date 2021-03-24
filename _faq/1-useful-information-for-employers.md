@@ -291,7 +291,6 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
   </tr>
 </tbody>
 </table><br>
-  
   *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
   
   The amount of monthly SEC employers will receive from 1 January 2019 to 31 December 2020 is in the table below.<br>
@@ -310,9 +309,9 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <colgroup>
 <col style="width: 160px">
 <col style="width: 170px">
-<col style="width: 175px">
+<col style="width: 180px">
 <col style="width: 170px">
-<col style="width: 165px">
+<col style="width: 160px">
 </colgroup>
 <thead>
   <tr>
@@ -402,7 +401,6 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
   </tr>
 </tbody>
 </table><br>
-  
   *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
   
   The SEC payout reduces linearly for monthly wages between $3,000 to $4,000.
