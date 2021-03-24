@@ -1,5 +1,5 @@
 ---
-title: How Do I Qualify For Sec
+title: How Do I Qualify For SEC
 permalink: /about-sec/how-do-i-qualify-for-sec/
 ---
 # How do I qualify for SEC
