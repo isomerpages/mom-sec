@@ -13,7 +13,7 @@ sections:
         button: LEARN MORE
         url: /about-sec/background
     - infobar:
-        title: 
+        title: /images/mom-logo.png
         button: /images/mom-logo.png
         url: https://www.mom.gov.sg/
 
