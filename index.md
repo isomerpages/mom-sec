@@ -12,10 +12,6 @@ sections:
         background: /images/banner.jpg
         button: LEARN MORE
         url: /about-sec/background
-    - infobar:
-        title: 
-        description: /images/mom-logo.png
-        button: Ministry of Manpower
-        url: https://www.mom.gov.sg/
+
 
 ---
