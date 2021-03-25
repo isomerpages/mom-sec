@@ -12,5 +12,9 @@ sections:
         background: /images/banner.jpg
         button: LEARN MORE
         url: /about-sec/background
-        
+    - infobar:
+        title: 
+        button: /images/mom-logo.png
+        url: https://www.mom.gov.sg/
+
 ---
