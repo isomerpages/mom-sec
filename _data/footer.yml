@@ -3,5 +3,5 @@ feedback: https://form.gov.sg/605af60d5880a7001291ee27
 faq: /faq/general
 show_reach: true
 links:
-- Title: Ministry of Manpower
-  url: https://www.mom.gov.sg/
+  - title: Google
+    url: https://www.google.com
