@@ -2,7 +2,7 @@
 layout: homepage
 title: Special Employment Credit
 description: The Special Employment Credit (SEC) was introduced as a Budget Initiative in 2011 to support employers, and to raise the employability of older Singaporeans.
-image: /images/isomer-logo.svg
+image: /images/site-logo.png
 permalink: /
 notification: 
 sections:
