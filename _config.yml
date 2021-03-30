@@ -1,11 +1,11 @@
-title: Title
+title: Special Employment Credit
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#6D6D6D'
+  secondary-color: '#ED7800'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -20,20 +20,11 @@ colors:
 
 
 collections:
-  about-sec:
+   about-sec:
     output: true
-  faq:
+   faq:
     output: true
-  soeminhtike:
-    output: true
-  aisyah:
-    output: true
-  khuz:
-    output: true  
-  tim:
-    output: true
-  lisa:
-    output: true
+
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

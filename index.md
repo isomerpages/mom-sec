@@ -1,39 +1,17 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Special Employment Credit
+description: The Special Employment Credit (SEC) was introduced as a Budget Initiative in 2011 to support employers, and to raise the employability of older Singaporeans.
+image: /images/site-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/photo.jpg
-        button: Aisyah page
-        url: /aisyah/test-aisyah
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Tim's page
-              description: Page A is important too
-              url: /tim/test-tim
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: 
-        url:  
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
+        title: Special Employment Credit
+        subtitle: Providing employers with continued support to hire older Singaporean workers.
+        background: /images/banner.jpg
+        button: LEARN MORE
+        url: /about-sec/background
+
+
 ---
