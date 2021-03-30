@@ -3,5 +3,5 @@ show_reach: true
 feedback: https://form.gov.sg/605af60d5880a7001291ee27
 faq: /faq/general
 links:
- - title: Google
-   url: https://www.google.com
+  - title: Google
+    url: https://www.google.com
