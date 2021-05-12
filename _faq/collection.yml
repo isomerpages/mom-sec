@@ -1,0 +1,7 @@
+collections:
+  faq:
+    output: false
+    order:
+      - general.md
+      - useful-information-for-employers.md
+      - others.md
