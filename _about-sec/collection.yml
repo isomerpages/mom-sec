@@ -1,6 +1,6 @@
 collections:
   about-sec:
-    output: false
+    output: true
     order:
       - background.md
       - how-do-i-qualify-for-sec.md
