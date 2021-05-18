@@ -1,6 +1,6 @@
 collections:
   faq:
-    output: false
+    output: true
     order:
       - general.md
       - useful-information-for-employers.md
