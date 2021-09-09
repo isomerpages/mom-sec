@@ -408,7 +408,7 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <details>
   <summary><b>3. What is considered as wages in assessing SEC eligibility? Will overtime pay and bonuses be included?</b></summary>
   
-  SEC eligibility is based on the total wages paid to the employee, as computed from the CPF contributions that are made. The total wage of the employee is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month. This may include but is not limited to food allowances, overtime, annual bonus, leave pay etc. Please refer to <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-contribution-for-employees">CPF Board website</a> for a more detailed description of total wages.
+  SEC eligibility is based on the total wages paid to the employee, as computed from the CPF contributions that are made. The total wage of the employee is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month. This may include but is not limited to food allowances, overtime, annual bonus, leave pay etc. Please refer to <a href="https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-an-employee">CPF Board website</a> for a more detailed description of total wages.
 </details><br>
 <details>
   <summary><b>4. How is the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
