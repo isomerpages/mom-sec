@@ -14,7 +14,8 @@ permalink: /faq/general/
 <details>
   <summary><b>2. Will the SEC be extended beyond 2020?</b></summary>
  
-  The final payment of SEC was made in March 2021. From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br><br>
+  The final payment of SEC was made in March 2021. <br><br>
+	From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br><br>
 	
 	•	The Senior Employment Credit provides wage offsets to employers who employ Singaporean employees aged 55 and above, and earning below $4,000 a month; and<br>
 	•	The Enabling Employment Credit provides wage offsets to employers who employ Singaporean employees with disabilities aged 13 and above and earning below $4,000 a month.<br><br>
