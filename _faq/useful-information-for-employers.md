@@ -431,50 +431,19 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
   
   SEC was paid to the bank account that was registered with CPF Board for the GIRO payment of CPF contribution. Employers without GIRO arrangements would have received their SEC by cheque.<br><br>
 
-Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>8. When will I receive payment for the SEC?</b></summary>
   
   SEC will be paid in September of the same year for work done from January to June, and March of the following year for work done from July to December.<br><br>
 
-Please refer to the table below for the payment months.<br>
-
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bfo8{background-color:#FFF;color:#666;text-align:left;vertical-align:middle}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 840px">
-<colgroup>
-<col style="width: 155px">
-<col style="width: 495px">
-<col style="width: 190px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Employees on the Payroll</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Deadline for employers to make CPF contributions to receive SEC</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Payment Month for SEC</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bfo8"><span style="font-weight:300">January to June</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">14th of the subsequent month</span><br><span style="font-weight:300">E.g. 14 February for employees on the January payroll</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">September of the same year</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bfo8"><span style="font-weight:300"> July to December</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">14th of the subsequent month</span><br><span style="font-weight:300">E.g. 14 January of the following year for employees on the December payroll</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">March of the following year</span></td>
-  </tr>
-</tbody>
-</table>
+The final payment of SEC was made in March 2021. <br><br>
+	From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br><br>
+	
+	<b>     </b>•	The Senior Employment Credit provides wage offsets to employers who employ Singaporean employees aged 55 and above, and earning below $4,000 a month; and<br>
+	<b>     </b>•	The Enabling Employment Credit provides wage offsets to employers who employ Singaporean employees with disabilities aged 13 and above and earning below $4,000 a month.<br><br>
+	  For more details on the new schemes, please visit <a href="https://www.iras.gov.sg/irashome/schemes/businesses/sec_cto_eec/">here</a>.
+	
 </details><br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
