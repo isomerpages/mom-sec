@@ -448,39 +448,8 @@ The final payment of SEC was made in March 2021. <br><br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
   
-  Employers are encouraged to bank in the cheque(s) within 6 months from the cheque issuance date. If the cheque has expired, employers may submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to receive the payment through GIRO to the entity's bank account.<br><br>
-
-If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by the dates below.<br>
-  
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
-    <td class="tg-gs7u">10th April of the following year </td>
-  </tr>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
-    <td class="tg-gs7u">10th October of the following year </td>
-  </tr>
-</tbody>
-</table><br>
-  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.<br><br>
-  However, if you have reason(s) for not being able to receive SEC payment via GIRO, please inform us by the same dates above and we will re-issue the cheque(s) accordingly.
+  SEC payments can be reissued via GIRO to the entity. Employers have to submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online by 30 November 2021. Reissuance requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.
+	
 </details><br>
 <details>
   <summary><b>10. I received the SEC cheque but do not have a corporate bank account. What should I do?</b></summary>
