@@ -438,10 +438,10 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
   SEC will be paid in September of the same year for work done from January to June, and March of the following year for work done from July to December.<br><br>
 
 The final payment of SEC was made in March 2021. <br><br>
-	From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br>
+	From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br><br>
 	
-	<b>     </b>•	The Senior Employment Credit provides wage offsets to employers who employ Singaporean employees aged 55 and above, and earning below $4,000 a month; and<br>
-	<b>     </b>•	The Enabling Employment Credit provides wage offsets to employers who employ Singaporean employees with disabilities aged 13 and above and earning below $4,000 a month.<br>
+	•	The Senior Employment Credit provides wage offsets to employers who employ Singaporean employees aged 55 and above, and earning below $4,000 a month; and<br>
+	•	The Enabling Employment Credit provides wage offsets to employers who employ Singaporean employees with disabilities aged 13 and above and earning below $4,000 a month.<br><br>
 	  For more details on the new schemes, please visit <a href="https://www.iras.gov.sg/irashome/schemes/businesses/sec_cto_eec/">here</a>.
 	
 </details><br>
