@@ -5,7 +5,7 @@ permalink: /faq/useful-information-for-employers/
 <details>
   <summary><b>1. How much SEC and ASEC can employers receive?</b></summary>
   
-  From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
+  From 2017, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
   
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-style:solid;border-width:1px;border-spacing:0;}
@@ -413,12 +413,13 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <details>
   <summary><b>4. How is the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
   
-  The SEC is provided to employers that hire employees aged 55 and above, and the wage offsets are tiered by age. The employee will be considered to be 55 (or the next age group) in the month of his birthday.
+  The SEC was provided to employers that hire employees aged 55 and above, and the wage offsets are tiered by age. The employee will be considered to be 55 (or the next age group) in the month of his birthday.
 </details><br>
 <details>
   <summary><b>5. As an employer, what do I need to do to receive my SEC?</b></summary>
   
-  MOM will automatically assess your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You will receive a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.
+  MOM will automatically assess your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You would have received a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.<br><br>
+	The final payout for SEC was paid in March 2021.
 </details><br>
 <details>
   <summary><b>6. When is the cut-off date for employers to make their CPF contributions to qualify for SEC?</b></summary>
@@ -426,9 +427,9 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
   Employers are given 14 days to make payment of CPF contributions after the end of the month for which CPF contributions are due, to qualify for SEC. If the last day of the grace period falls on a Saturday, Sunday or public holiday, CPF contributions must be paid by the next working day.
 </details><br>
 <details>
-  <summary><b>7. How will the SEC payment be made?</b></summary>
+  <summary><b>7. How was the SEC payment be made?</b></summary>
   
-  Employers will receive their SEC in the bank accounts that are registered with CPF Board for the GIRO payment of CPF contribution. Employers without a GIRO arrangement with CPF Board may submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to start receiving SEC automatically in the entity’s bank account. Employers without GIRO arrangements will receive their SEC by cheque.<br><br>
+  SEC was paid to the bank account that was registered with CPF Board for the GIRO payment of CPF contribution. Employers without GIRO arrangements would have received their SEC by cheque.<br><br>
 
 Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
