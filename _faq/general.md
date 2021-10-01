@@ -30,6 +30,6 @@ permalink: /faq/general/
 <details>
   <summary><b>4. Will SEC continue to apply to employers hiring Persons with Disabilities (PWDs)?</b></summary>
   
-  The SEC for PWDs will also be extended for one more year, until end-2020.<br><br>
-  The extended SEC will continue to provide a wage offsets of up to 16% of the PWD's monthly wage, regardless of age, for employers hiring PWDs. The monthly SEC will be capped at $240. The wage offset for the extended ASEC will continue to be set at up to 22%, capped at $330.
+  The SEC for PWDs was extended for one more year, until end-2020.<br><br>
+  The extended SEC continued to provide a wage offsets of up to 16% of the PWD's monthly wage, regardless of age, for employers hiring PWDs. The monthly SEC was capped at $240. The wage offset for the extended ASEC was set at up to 22%, capped at $330.
 </details>
