@@ -9,7 +9,7 @@ permalink: /faq/general/
   To encourage employers to voluntarily re-employ Singaporeans above the re-employment age, it was announced at Budget 2015 that an additional wage offset up to 3 (ASEC) would be introduced in 2015.<br><br>
   The re-employment age was raised from 65 to 67 from 1 July 2017. The new re-employment age of 67 applies to those who turn 65 on or after 1 July 2017; in other words, those born on or after 1 July 1952.<br><br>
   The additional wage offset of 3% was extended from 1 July 2017 to 31 December 2019 to encourage employers to voluntarily re-employ employees who are not covered by the new re-employment age.<br><br>
-  As announced at Budget 2019, the SEC and ASEC will be extended for one more year until end-2020.
+  The SEC and ASEC was subsequently extended for one more year until end-2020.
 </details><br>
 <details>
   <summary><b>2. Will the SEC be extended beyond 2020?</b></summary>
