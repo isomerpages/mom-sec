@@ -15,7 +15,7 @@ permalink: /faq/others/
 <details>
   <summary><b>3. What was the rationale for extending SEC to employers who hire persons with disabilities (PWDs), especially those aged below 55?</b></summary>
   
-  The SEC covers persons with disabilities (PWDs), including those aged below 55. This was intended to encourage employers to provide gainful employment for PWDs, so that more PWDs can enter the workforce and be active and independent.
+  The SEC covered persons with disabilities (PWDs), including those aged below 55. This was intended to encourage employers to provide gainful employment for PWDs, so that more PWDs can enter the workforce and be active and independent.
 </details><br>
 <details>
   <summary><b>4. Where can I find more information to hire persons with disabilities?</b></summary>
