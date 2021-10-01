@@ -227,8 +227,8 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 <details>
   <summary><b>2. How much SEC and ASEC can employers of persons with disabilities (PWDs) receive?</b></summary>
   
-  Employers of PWDs will continue to receive a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
-In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, will receive a further SEC enhancement of up to 6%. This increases the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
+  Employers of PWDs received a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
+In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, received a further SEC enhancement of up to 6%. This increases the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
 
 The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and extended period of 1 January to 31 December 2020 is as follows:<br>
 
