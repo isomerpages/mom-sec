@@ -5,7 +5,7 @@ permalink: /faq/useful-information-for-employers/
 <details>
   <summary><b>1. How much SEC and ASEC can employers receive?</b></summary>
   
-  From 2017 onwards, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
+  From 2017, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
   
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-style:solid;border-width:1px;border-spacing:0;}
@@ -227,8 +227,8 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
 <details>
   <summary><b>2. How much SEC and ASEC can employers of persons with disabilities (PWDs) receive?</b></summary>
   
-  Employers of PWDs will continue to receive a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
-In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, will receive a further SEC enhancement of up to 6%. This increases the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
+  Employers of PWDs received a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
+In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, received a further SEC enhancement of up to 6%. This increases the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
 
 The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and extended period of 1 January to 31 December 2020 is as follows:<br>
 
@@ -413,12 +413,13 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <details>
   <summary><b>4. How is the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
   
-  The SEC is provided to employers that hire employees aged 55 and above, and the wage offsets are tiered by age. The employee will be considered to be 55 (or the next age group) in the month of his birthday.
+  The SEC was provided to employers that hire employees aged 55 and above, and the wage offsets are tiered by age. The employee will be considered to be 55 (or the next age group) in the month of his birthday.
 </details><br>
 <details>
   <summary><b>5. As an employer, what do I need to do to receive my SEC?</b></summary>
   
-  MOM will automatically assess your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You will receive a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.
+  MOM will automatically assess your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You would have received a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.<br><br>
+	The final payout for SEC was paid in March 2021.
 </details><br>
 <details>
   <summary><b>6. When is the cut-off date for employers to make their CPF contributions to qualify for SEC?</b></summary>
@@ -426,132 +427,40 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
   Employers are given 14 days to make payment of CPF contributions after the end of the month for which CPF contributions are due, to qualify for SEC. If the last day of the grace period falls on a Saturday, Sunday or public holiday, CPF contributions must be paid by the next working day.
 </details><br>
 <details>
-  <summary><b>7. How will the SEC payment be made?</b></summary>
+  <summary><b>7. How was the SEC payment be made?</b></summary>
   
-  Employers will receive their SEC in the bank accounts that are registered with CPF Board for the GIRO payment of CPF contribution. Employers without a GIRO arrangement with CPF Board may submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to start receiving SEC automatically in the entity’s bank account. Employers without GIRO arrangements will receive their SEC by cheque.<br><br>
+  SEC was paid to the bank account that was registered with CPF Board for the GIRO payment of CPF contribution. Employers without GIRO arrangements would have received their SEC by cheque.<br><br>
 
-Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>8. When will I receive payment for the SEC?</b></summary>
   
   SEC will be paid in September of the same year for work done from January to June, and March of the following year for work done from July to December.<br><br>
 
-Please refer to the table below for the payment months.<br>
-
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bfo8{background-color:#FFF;color:#666;text-align:left;vertical-align:middle}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 840px">
-<colgroup>
-<col style="width: 155px">
-<col style="width: 495px">
-<col style="width: 190px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Employees on the Payroll</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Deadline for employers to make CPF contributions to receive SEC</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Payment Month for SEC</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bfo8"><span style="font-weight:300">January to June</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">14th of the subsequent month</span><br><span style="font-weight:300">E.g. 14 February for employees on the January payroll</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">September of the same year</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bfo8"><span style="font-weight:300"> July to December</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">14th of the subsequent month</span><br><span style="font-weight:300">E.g. 14 January of the following year for employees on the December payroll</span></td>
-    <td class="tg-bfo8"><span style="font-weight:300">March of the following year</span></td>
-  </tr>
-</tbody>
-</table>
+The final payment of SEC was made in March 2021. <br><br>
+	From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br><br>
+	
+	•	The Senior Employment Credit provides wage offsets to employers who employ Singaporean employees aged 55 and above, and earning below $4,000 a month; and<br>
+	•	The Enabling Employment Credit provides wage offsets to employers who employ Singaporean employees with disabilities aged 13 and above, and earning below $4,000 a month.<br><br>
+	  For more details on the new schemes, please visit <a href="https://www.iras.gov.sg/irashome/schemes/businesses/sec_cto_eec/">here</a>.
+	
 </details><br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
   
-  Employers are encouraged to bank in the cheque(s) within 6 months from the cheque issuance date. If the cheque has expired, employers may submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to receive the payment through GIRO to the entity's bank account.<br><br>
-
-If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by the dates below.<br>
-  
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
-    <td class="tg-gs7u">10th April of the following year </td>
-  </tr>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
-    <td class="tg-gs7u">10th October of the following year </td>
-  </tr>
-</tbody>
-</table><br>
-  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.<br><br>
-  However, if you have reason(s) for not being able to receive SEC payment via GIRO, please inform us by the same dates above and we will re-issue the cheque(s) accordingly.
+  SEC payments can be reissued via GIRO to the entity. Employers have to submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online by 30 November 2021. Reissuance requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.
+	
 </details><br>
 <details>
   <summary><b>10. I received the SEC cheque but do not have a corporate bank account. What should I do?</b></summary>
   
-  You are encouraged to open a corporate bank account and register it with us so that you can receive future SEC payments via GIRO.<br><br>
-
-If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by the dates below.<br>
-  
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
-    <td class="tg-gs7u">10th April of the following year </td>
-  </tr>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
-    <td class="tg-gs7u">10th October of the following year </td>
-  </tr>
-</tbody>
-</table><br>
+  If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by 30 November 2021. Requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.  <br><br>
   Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
   <summary><b>11. My business ceased operations after assessment/halfway through the assessment period. I have made CPF contributions for my Singaporean employees. Will I still receive SEC?</b></summary>
   
-  You will be assessed for the SEC and notified of your payment for the period that CPF contributions for eligible employees were made. If your business bank account has been terminated following the cease of business operations, please write in to the SEC team (<a href="mailto:sec@mom.gov.sg">sec@mom.gov.sg</a>). We will review your case and advise you on the actions you need to take in order to receive the SEC payment.
+  You would have been assessed for the SEC and notified of your payment for the period that CPF contributions for eligible employees were made. If your business bank account has been terminated following the cease of business operations, please write in to the SEC team (<a href="mailto:sec@mom.gov.sg">sec@mom.gov.sg</a>). We will review your case and advise you on the actions you need to take in order to receive the SEC payment.
 </details><br>
 <details>
   <summary><b>12. Can I receive SEC without making CPF contributions for my employees?</b></summary>
@@ -562,77 +471,4 @@ If your entity does not have a corporate bank account, the entity may authorise 
   <summary><b>13. As an employer, do I need to pay tax on the SEC payments?</b></summary>
   
   Yes, SEC payments are taxable as they are considered revenue receipts.
-</details><br>
-<details>
-  <summary><b>14. I have received an SEC cheque. How do I change my mode of payment for SEC to GIRO for future SEC payouts, if I am eligible?</b></summary>
-  
-  Employers have to submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online in order to receive SEC via GIRO. Please ensure that the instruction reaches us by the dates below.<br>
-
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
-    <td class="tg-gs7u">10th April of the same year </td>
-  </tr>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
-    <td class="tg-gs7u">10th October of the same year </td>
-  </tr>
-</tbody>
-</table><br>
-Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
-</details><br>
-<details>
-  <summary><b>15. How do I authorise a new third party payee to receive SEC for my entity?</b></summary>
-  
-  To authorise a new third party payee, employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online. Please ensure that the form reaches us by the dates below.<br>
-  
-  <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wo1z{background-color:#F88000;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-gs7u{background-color:#FFF;color:#666;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wo1z"><span style="font-weight:bolder">Assessment Period</span></th>
-    <th class="tg-wo1z"><span style="font-weight:700;color:#FFF">Date that completed form must reach us </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">January – June</span></td>
-    <td class="tg-gs7u">10th April of the same year </td>
-  </tr>
-  <tr>
-    <td class="tg-gs7u"><span style="font-weight:400">July – December</span></td>
-    <td class="tg-gs7u">10th October of the same year </td>
-  </tr>
-</tbody>
-</table><br>
-  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
-</details><br>
-<details>
-  <summary><b>16. How will I know if my new Singaporean employee with disabilities will help me qualify for SEC/ASEC for employers of person with disabilities?</b></summary>
-  
-  CPFB will automatically assess your eligibility for the SEC/ASEC. The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.
 </details><br>
