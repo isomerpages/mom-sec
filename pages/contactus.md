@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: /contact-us/
+permalink: /contactus/
 contacts:
   - content:
       - phone: ""

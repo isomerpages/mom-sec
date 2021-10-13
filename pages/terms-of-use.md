@@ -2,6 +2,8 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
+
+
 ### **Terms of Use**
 
 Thank you for visiting the Special Employment Credit Website (hereinafter the "Website").

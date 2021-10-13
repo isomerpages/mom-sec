@@ -1,7 +1,8 @@
 ---
 title: Background
-permalink: /about-sec/background/
+permalink: /aboutsec/background/
 ---
+
 # Background
 From 2012 to 2016, employers who hired Singaporean employees aged above 50 earning up to $4,000 a month received SEC of up to 8% of the employee's monthly wages.
 
