@@ -12,7 +12,7 @@ sections:
       title: Special Employment Credit
       background: /images/banner.jpg
       button: LEARN MORE
-      url: /about-sec/background
+      url: /aboutsec/background
   - infobar:
       title: Providing employers with continued support to hire older Singaporean
         workers.
