@@ -2,7 +2,6 @@
 title: Useful Information For Employers
 permalink: /faq/usefulinformationforemployers/
 ---
-
 <details>
   <summary><b>1. How much SEC and ASEC can employers receive?</b></summary>
   
@@ -449,13 +448,13 @@ The final payment of SEC was made in March 2021. <br><br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
   
-  SEC payments can be reissued via GIRO to the entity. Employers have to submit the <a href="https://go.gov.sg/secgp">Instruction for GIRO Payment of Special Employment Credit</a> online by 30 November 2021. Reissuance requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.
+  SEC payments can be reissued via GIRO to the entity. Employers have to submit the Instruction for GIRO Payment of Special Employment Credit online by 30 November 2021. Reissuance requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.
 	
 </details><br>
 <details>
   <summary><b>10. I received the SEC cheque but do not have a corporate bank account. What should I do?</b></summary>
   
-  If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the <a href="https://go.gov.sg/sectpp">Authorisation by Entity to Pay Special Employment Credit to a Third Party</a> online, by 30 November 2021. Requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.  <br><br>
+  If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the Authorisation by Entity to Pay Special Employment Credit to a Third Party online, by 30 November 2021. Requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.  <br><br>
   Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
 </details><br>
 <details>
