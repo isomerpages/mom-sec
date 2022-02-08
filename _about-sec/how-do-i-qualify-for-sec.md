@@ -2,10 +2,9 @@
 title: How Do I Qualify For SEC
 permalink: /aboutsec/howdoiqualifyforsec/
 ---
-
 # How do I qualify for SEC
 
-Employers who make regular CPF contributions for their workers need not take further action in order to receive the SEC. MOM will automatically assess their eligibility\* and notify them by post before payments are made. <br><br> 
+Employers who made regular CPF contributions for their workers need not take further action in order to receive the SEC. MOM would have automatically assess their eligibility\* and notify them by post before payments were made. <br><br> 
 
   
 
