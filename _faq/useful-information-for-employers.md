@@ -5,7 +5,7 @@ permalink: /faq/usefulinformationforemployers/
 <details>
   <summary><b>1. How much SEC and ASEC can employers receive?</b></summary>
   
-  From 2017, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 will continue to receive wage-offsets, tiered by age (see table below).
+  From 2017, employers hiring Singaporean workers aged 55 and above, and earning up to $4,000 continued to receive wage-offsets, tiered by age (see table below).
   
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-style:solid;border-width:1px;border-spacing:0;}
@@ -43,9 +43,9 @@ permalink: /faq/usefulinformationforemployers/
   <br>
   In 1 January 2015, an additional wage offset of up to 3% of an employee's monthly wages was introduced to encourage employers to voluntarily re-employ Singaporeans aged 65 and above. At Budget 2017, it was announced that this additional wage support would be extended from 1 July 2017 to 31 December 2019 to encourage the voluntary re-employment of older Singaporeans who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017.<br><br>
 
-Taken together, this means that employers who hire workers not covered by the re-employment age of 67 will receive an SEC of up to 11% of an employee’s monthly wages.<br><br>
+Taken together, this means that employers who hired workers not covered by the re-employment age of 67 would have received an SEC of up to 11% of an employee’s monthly wages.<br><br>
 
-The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, and the extended period of 1 January to 31 December 2020 is as follows:<br>
+The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, and the extended period of 1 January to 31 December 2020 was as follows:<br>
   
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -102,7 +102,7 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
   </tr>
 </tbody>
 </table><br>
-  The amount of SEC/ASEC payouts employers will receive per month for 1 January 2019 to 31 December 2020 is in the table below.<br>
+  The amount of SEC/ASEC payouts employers would have received per month for 1 January 2019 to 31 December 2020 is in the table below.<br>
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -222,15 +222,15 @@ The SEC/ASEC payout formula for work done from 1 January to 31 December 2019, an
   </tr>
 </tbody>
 </table>
-  The SEC payout reduces linearly for monthly wages between $3,000 to $4,000.
+  The SEC payout reduced linearly for monthly wages between $3,000 to $4,000.
 </details><br>
 <details>
   <summary><b>2. How much SEC and ASEC can employers of persons with disabilities (PWDs) receive?</b></summary>
   
-  Employers of PWDs received a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
-In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, received a further SEC enhancement of up to 6%. This increases the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
+  Employers of PWDs continued to receive a SEC of up to 16% of the PWD's monthly income, regardless of age.<br><br>  
+In addition, employers of older PWDs aged 65 and above who would not be covered by the new re-employment age of 67, i.e. individuals born before 1 July 1952 and those above age 67 on 1 July 2017, would have received a further SEC enhancement of up to 6%. This increased the SEC quantum to up to 22% of the monthly wage for these PWDs.<br><br>
 
-The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and extended period of 1 January to 31 December 2020 is as follows:<br>
+The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and extended period of 1 January to 31 December 2020 was as follows:<br>
 
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
@@ -293,7 +293,7 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 </table>
   *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
   
-  The amount of monthly SEC employers will receive from 1 January 2019 to 31 December 2020 is in the table below.<br>
+  The amount of monthly SEC employers would have received from 1 January 2019 to 31 December 2020 is in the table below.<br>
   
   <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
@@ -403,22 +403,22 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 </table>
   *The person with disabilities must be supported by SG Enable to qualify. Disabilities covered by SG Enable are autism spectrum disorder, intellectual disability, physical impairment, hearing impairment and visual impairment. If you have queries on the disabilities as covered by SG Enable, you may refer to <a href="https://www.sgenable.sg/Pages/Home.aspx">www.sgenable.sg</a> or contact SG Enable at: 1800-8585 885.<br><br>
   
-  The SEC payout reduces linearly for monthly wages between $3,000 to $4,000.
+  The SEC payout reduced linearly for monthly wages between $3,000 to $4,000.
 </details><br>
 <details>
-  <summary><b>3. What is considered as wages in assessing SEC eligibility? Will overtime pay and bonuses be included?</b></summary>
+  <summary><b>3. What was considered as wages in assessing SEC eligibility? Would overtime pay and bonuses be included?</b></summary>
   
-  SEC eligibility is based on the total wages paid to the employee, as computed from the CPF contributions that are made. The total wage of the employee is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month. This may include but is not limited to food allowances, overtime, annual bonus, leave pay etc. Please refer to <a href="https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-an-employee">CPF Board website</a> for a more detailed description of total wages.
+  SEC eligibility was based on the total wages paid to the employee, as computed from the CPF contributions that are made. The total wage of the employee was the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month. This may include but was not limited to food allowances, overtime, annual bonus, leave pay etc. Please refer to <a href="https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-an-employee">CPF Board website</a> for a more detailed description of total wages.
 </details><br>
 <details>
-  <summary><b>4. How is the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
+  <summary><b>4. How was the age of an employee determined in assessing his eligibility for the SEC?</b></summary>
   
-  The SEC was provided to employers that hire employees aged 55 and above, and the wage offsets are tiered by age. The employee will be considered to be 55 (or the next age group) in the month of his birthday.
+  The SEC was provided to employers that hire employees aged 55 and above, and the wage offsets were tiered by age. The employee would be considered to be 55 (or the next age group) in the month of his birthday.
 </details><br>
 <details>
   <summary><b>5. As an employer, what do I need to do to receive my SEC?</b></summary>
   
-  MOM will automatically assess your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You would have received a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.<br><br>
+  MOM would have automatically assessed your eligibility for the SEC, based on your regular monthly CPF contributions for your employees. You would have received a letter from MOM informing you of the payment if you are eligible and have made the necessary CPF contributions on time.<br><br>
 	The final payout for SEC was paid in March 2021.
 </details><br>
 <details>
@@ -435,7 +435,7 @@ The SEC/ASEC payout formula for PWDs from 1 January to 31 December 2019 and exte
 <details>
   <summary><b>8. When will I receive payment for the SEC?</b></summary>
   
-  SEC will be paid in September of the same year for work done from January to June, and March of the following year for work done from July to December.<br><br>
+  SEC was paid in September of the same year for work done from January to June, and March of the following year for work done from July to December.<br><br>
 
 The final payment of SEC was made in March 2021. <br><br>
 	From 1 January 2021, there are two new schemes – the Senior Employment Credit and the Enabling Employment Credit.<br><br>
@@ -448,27 +448,22 @@ The final payment of SEC was made in March 2021. <br><br>
 <details>
   <summary><b>9. My cheque has expired. Can I request reissuance of my SEC cheque?</b></summary>
   
-  SEC payments can be reissued via GIRO to the entity. Employers have to submit the Instruction for GIRO Payment of Special Employment Credit online by 30 November 2021. Reissuance requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.
+  The deadline to submit reissuance request was 30 November 2021. We no longer accept reissuance request.
 	
 </details><br>
 <details>
   <summary><b>10. I received the SEC cheque but do not have a corporate bank account. What should I do?</b></summary>
   
-  If your entity does not have a corporate bank account, the entity may authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers have to submit the Authorisation by Entity to Pay Special Employment Credit to a Third Party online, by 30 November 2021. Requests submitted after 30 November 2021 will not be accepted. Unclaimed SEC will be forfeited.  <br><br>
-  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would be rejected.
+  If your entity does not have a corporate bank account, the entity could authorise the sole proprietor, director or partner to receive SEC via GIRO on behalf of the entity. Employers had to submit the Authorisation by Entity to Pay Special Employment Credit to a Third Party online, the deadline to submit reissuance request was 30 November 2021. We no longer accept reissuance request.  <br><br>
+  Note: The online form must be submitted by the owner of the entity (i.e. sole-proprietor or one of the partners/directors). Forms submitted by other parties would have been rejected.
 </details><br>
 <details>
-  <summary><b>11. My business ceased operations after assessment/halfway through the assessment period. I have made CPF contributions for my Singaporean employees. Will I still receive SEC?</b></summary>
+  <summary><b>11. Can I receive SEC without making CPF contributions for my employees?</b></summary>
   
-  You would have been assessed for the SEC and notified of your payment for the period that CPF contributions for eligible employees were made. If your business bank account has been terminated following the cease of business operations, please write in to the SEC team (<a href="mailto:sec@mom.gov.sg">sec@mom.gov.sg</a>). We will review your case and advise you on the actions you need to take in order to receive the SEC payment.
+  The SEC was intended to provide employers with continued support in hiring older Singaporeans. Employers must make the mandatory CPF contributions for their employees in order to qualify for SEC payouts.
 </details><br>
 <details>
-  <summary><b>12. Can I receive SEC without making CPF contributions for my employees?</b></summary>
+  <summary><b>12. As an employer, do I need to pay tax on the SEC payments?</b></summary>
   
-  The SEC is intended to provide employers with continued support in hiring older Singaporeans. Employers must make the mandatory CPF contributions for their employees in order to qualify for SEC payouts.
-</details><br>
-<details>
-  <summary><b>13. As an employer, do I need to pay tax on the SEC payments?</b></summary>
-  
-  Yes, SEC payments are taxable as they are considered revenue receipts.
+  Yes, SEC payments were taxable as they are considered revenue receipts.
 </details><br>
