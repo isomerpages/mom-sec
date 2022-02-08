@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - background.md
-      - when-will-my-sec-be-paid.md
