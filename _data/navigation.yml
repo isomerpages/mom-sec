@@ -2,7 +2,5 @@ logo: /images/site-logo.png
 links:
   - title: About SEC
     collection: about-sec
-  - title: FAQ
-    collection: faq
   - title: Contact Us
     url: /ContactUs/
