@@ -10,7 +10,7 @@ permalink: /faq/others/
 <details>
   <summary><b>2. I am self-employed and have made contributions to my Medisave account. Am I eligible for the SEC?</b></summary>
   
-  No. The SEC was only paid to employers who have made qualifying CPF contributions for their eligible employees. Hence, self-employed persons are not eligible for the SEC. However, if you employed eligible Singaporean employees, you may receive the SEC based on the mandatory CPF contributions that you have made for them.
+  No. The SEC was only paid to employers who have made qualifying CPF contributions for their eligible employees. Hence, self-employed persons are not eligible for the SEC. However, if you employed eligible Singaporean employees, you may have received the SEC based on the mandatory CPF contributions that you have made for them.
 </details><br>
 <details>
   <summary><b>3. What was the rationale for extending SEC to employers who hire persons with disabilities (PWDs), especially those aged below 55?</b></summary>
