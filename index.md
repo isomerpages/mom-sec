@@ -26,7 +26,7 @@ sections:
         Minister for Finance announced a further one-year extension of SEC to
         end-2020 at Budget 2019.
   - infobar:
-      description: For any appeals related to the Mar 2021 payment, please write in to
-        sec@mom.gov.sg by 31 Oct 2021. Appeals submitted after the deadline will
-        not be considered.
+      description: The SEC scheme has ended. The final SEC payout was made to all
+        eligible employers in March 2021. MOM will no longer accept queries on
+        SEC from 1 April 2022.
 ---
