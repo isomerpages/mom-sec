@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - background.md
-      - how-do-i-qualify-for-sec.md
-      - when-will-my-sec-be-paid.md
