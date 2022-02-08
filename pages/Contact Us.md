@@ -5,7 +5,7 @@ date: 2022-02-08
 layout: post
 description: ""
 ---
-# Get in touch with Special Employment Credit (SEC)
+# **Get in touch with Special Employment Credit (SEC)**
 
 ## Contact Us
 **Enquiries on SEC**
