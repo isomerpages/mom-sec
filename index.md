@@ -29,4 +29,11 @@ sections:
       description: The SEC scheme has ended. The final SEC payout was made to all
         eligible employers in March 2021. MOM will no longer accept queries on
         SEC from 1 April 2022.
+  - infobar:
+      description: For any appeals related to the Mar 2021 payment, please write in to
+        sec@mom.gov.sg by 31 Oct 2021. Appeals submitted after the deadline will
+        not be considered.
+  - infobar:
+      description: Requests for reissuance and breakdown details submitted after 30
+        November 2021 will not be accepted. Unclaimed SEC will be forfeited.
 ---
