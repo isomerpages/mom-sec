@@ -41,8 +41,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
 
-staging: https://cpf-sec-staging.netlify.app
-prod: https://cpf-sec-prod.netlify.app
+staging: https://mom-sec-staging.netlify.app
+prod: https://mom-sec-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
